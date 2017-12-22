@@ -28,7 +28,7 @@
   "devDependencies": {
     "uglify-js": "2.x"
   },
-  "main": "dist/howler.js",
+  "main": "dist/howler.core.min.js",
   "license": "MIT",
   "files": [
     "src",
